@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Global News"
+            },
+            "author": "Kirby Bourne",
+            "title": "QR code to be only form of proof of COVID-19 vaccine accepted in Alberta starting Monday - Global News",
+            "description": "Starting Monday, Albertans looking to enter businesses that have implemented the COVID-19 restrictions exemption program will need to use the QR code.",
+            "url": "https://globalnews.ca/news/8372318/qr-code-only-form-proof-of-covid-19-vaccine-accepted-alberta-starting-monday/",
+            "urlToImage": "https://globalnews.ca/wp-content/uploads/2021/10/QR-CODE-PHOTO.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2021-11-14T16:57:15Z",
+            "content": "Starting Monday, Albertans hoping to enter businesses who have implemented the COVID-19 restrictions exemption program — or Albertas vaccine passport — will need to have the QR code provided by the p… [+1807 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "Coronavirus in Quebec: 634 new cases, four more deaths, hospitalizations drop by nine - CTV News Montreal",
+            "description": "Quebec reported Sunday that 643 more people have tested positive for COVID-19, with 403 of those not fully vaccinated.",
+            "url": "https://montreal.ctvnews.ca/quebec-reports-634-more-covid-19-cases-hospitalizations-continue-to-drop-1.5665626",
+            "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.5072414.1597943165!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+            "publishedAt": "2021-11-14T16:02:30Z",
+            "content": "MONTREAL -- \r\nQuebec reported Sunday that 634 more people have tested positive for COVID-19, with 403 of those not fully vaccinated.\r\nOf the new cases, the health ministry said 387 people were unvacc… [+858 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "Mixed reactions to new COVID-19 rules as Manitoba hits highest infection rate among provinces - CBC.ca",
+            "description": "Reactions have been mixed so far to Manitoba’s latest public health orders targeting kids in sports, hospital capacity and unvaccinated churchgoers in the southern part of the province.",
+            "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-new-public-health-orders-mixed-reaction-highest-infection-rate-1.6248236",
+            "urlToImage": "https://i.cbc.ca/1.6165172.1630776634!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1337337335.jpg",
+            "publishedAt": "2021-11-13T22:17:45Z",
+            "content": "Reactions have been mixed so far to Manitoba's latest public health orders targeting kids in sports, unvaccinated churchgoers in the southern part of the province and hospital capacity.\r\nBut for many… [+5268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cfnrfm.ca"
+            },
+            "author": "Jeff Blagden",
+            "title": "Covid Outbreak at GR Baker Memorial Hospital Declared Over - CFNR Network",
+            "description": "Northern Health has declared a Covid outbreak at GR Baker Memorial Hospital in Quesnel over. Covering the Inpa...",
+            "url": "https://www.cfnrfm.ca/2021/11/12/covid-outbreak-at-gr-baker-memorial-hospital-declared-over/",
+            "urlToImage": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1006/files/2021/02/cfnr-news-northenrn-health-covid.jpg",
+            "publishedAt": "2021-11-12T22:23:01Z",
+            "content": "Northern Health has declared a Covid outbreak at GR Baker Memorial Hospital in Quesnel over.\r\nCovering the Inpatient Unit, the outbreak was initially declared on October 15th.\r\nIn total, 5 patients a… [+266 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "Vaccine expert: Third doses and COVID-19 vaccines for kids top of mind for Waterloo Region residents - CTV News Kitchener",
+            "description": "When Kelly Grindrod goes out for walks, the vaccine expert from Waterloo says she’s often stopped and asked about two things: third doses and vaccinating young children against COVID-19.",
+            "url": "https://kitchener.ctvnews.ca/vaccine-expert-third-doses-and-covid-19-vaccines-for-kids-top-of-mind-for-waterloo-region-residents-1.5664103",
+            "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2020/10/1/covid-vaccine-1-5127839-1627389588882.jpg",
+            "publishedAt": "2021-11-12T20:35:00Z",
+            "content": "Waterloo - \r\nWhen Kelly Grindrod goes out for walks, the vaccine expert from Waterloo says shes often stopped and asked about two things: third doses and vaccinating young children against COVID-19.\r… [+1994 chars]"
+        }
+    ]
+}
